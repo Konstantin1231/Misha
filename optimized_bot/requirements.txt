@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+requests
+pydantic
+python-telegram-bot
+langchain
+openai
+python-dotenv~=1.0.1
+langchain-openai
+langchain-pinecone
+langchain-community
+httpx
+aiofiles
+databases[aiomysql]
+sqlalchemy
+pymysql
